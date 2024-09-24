@@ -152,7 +152,7 @@ public class ChatUtil {
 				result = Color.fromRGB(0x55FFFF);
 				break;
 			case RED:
-				result = Color.fromRGB(0xFF5555);
+				result = Color.fromRGB(0xEFDDB6);
 				break;
 			case LIGHT_PURPLE:
 				result = Color.fromRGB(0xFF55FF);
